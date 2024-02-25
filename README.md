@@ -1,1 +1,3 @@
+```
 dpkg-reconfigure tzdata
+```
